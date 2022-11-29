@@ -1,2 +1,3 @@
 Szymon Fluder
 bit shifty w C
+Nie czytam czasopism
